@@ -16,7 +16,7 @@ class Solution:
         return not stack
 
 
-# \U0001f9ea Test locally
+#  Test locally
 if __name__ == "__main__":
     sol = Solution()
     test_cases = ["()", "()[]{}", "(]", "([])", "([)]"]
